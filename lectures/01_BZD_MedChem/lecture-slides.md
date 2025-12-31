@@ -9,7 +9,7 @@ footer: "PHA 548 – Hampton University"
 # 🧬 Medicinal Chemistry of Benzodiazepine Sedative-Hypnotics
 **Course:** PHA 548 Pharmacology & Medicinal Chemistry  
 **Instructor:** Sidney Bolden, Jr., Ph.D.
-**Reference:** Foye's Principles of Medicinal Chemistry, 8th Ed.
+
 
 ---
 
