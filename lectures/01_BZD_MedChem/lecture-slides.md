@@ -92,7 +92,7 @@ By the end of this lecture, you will be able to:
 
 ## CYP Oxidation — Classical BZD Metabolism
 
-![Flurazepam/Quazepam metabolism](figures/figure_12.7.jpg)
+![Flurazepam metabolism](figures/flurazepam_metabolism.jpg)
 *Long-acting metabolites → residual sedation*
 
 ---
