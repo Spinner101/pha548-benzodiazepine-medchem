@@ -1,212 +1,182 @@
----
+--- 
 marp: true
 theme: default
 paginate: true
 title: Medicinal Chemistry of Benzodiazepine Sedative-Hypnotics
-author: PHA 548 – Pharmacology & Medicinal Chemistry
+footer: "PHA 548 – Hampton University"
 ---
 
 # 🧬 Medicinal Chemistry of Benzodiazepine Sedative-Hypnotics
-
 **Course:** PHA 548 Pharmacology & Medicinal Chemistry  
-**Reference:** *Foye’s Principles of Medicinal Chemistry, 8th Ed.*
+**Reference:** Foye's Principles of Medicinal Chemistry, 8th Ed.
 
 ---
 
 ## 🎯 Learning Objectives
 
-By the end of this 75–90 minute lecture, you should be able to:
+By the end of this lecture, you will be able to:
 
-1. Explain how benzodiazepines interact with the GABAA receptor at the α–γ interface.  
-2. Analyze key SAR features that govern affinity, potency, and subtype preference.  
-3. Predict pharmacokinetic behavior from structural modifications.  
-4. Evaluate design improvements that led to newer agents such as remimazolam.
-
----
-
-## 🧠 GABAA Receptor & Benzodiazepine MOA
-
-- GABAA is a **pentameric ligand-gated Cl⁻ channel**  
-  - Typical stoichiometry: **2α + 2β + 1γ**
-- Benzodiazepines bind at the **α–γ subunit interface**  
-- They **do not** activate the receptor alone  
-  - They **enhance GABA’s effect** by increasing the **frequency** of Cl⁻ channel openings  
-- Result: **Neuronal hyperpolarization** and reduced excitability
+1. Explain benzodiazepine interaction at the GABAA α-γ interface  
+2. Analyze SAR driving affinity, selectivity, and potency  
+3. Predict PK outcomes based on chemical modifications  
+4. Evaluate structural innovation leading to remimazolam
 
 ---
 
-## α Subunit Selectivity
+## GABAA Receptors — Target Overview
 
-| α Subunit | Primary Functional Effect |
-|----------|---------------------------|
-| α1       | Sedation, anterograde amnesia, anticonvulsant |
-| α2 / α3  | Anxiolysis, muscle relaxation |
-| α5       | Cognitive effects / memory impairment |
-
-> Medicinal chemistry takeaway: small structural changes can bias activity toward α1 vs α2/3/5–containing receptors.
+- **Pentameric ligand-gated Cl⁻ channel**
+- Typical stoichiometry: **2α + 2β + 1γ**
+- Benzodiazepines bind at **α–γ subunit interface**
+- ↑ **frequency** of GABA-dependent channel openings  
+- **Require GABA present** (safety advantage vs barbiturates)
 
 ---
 
-## Required Benzodiazepine Pharmacophore
+### α Subunit Pharmacology
 
-**Core scaffold: 5-phenyl-1,4-benzodiazepine-2-one**
-
-Key features:
-
-- **Ring A (benzene)** with **C7 electronegative substituent**  
-- **Ring B (diazepine)** with **N1–C2 carbonyl**  
-- **Ring C (C5 phenyl)** providing an aromatic π-system
+| α Subunit | Functional Outcome |
+|----------|-------------------|
+| α1 | Sedation, amnesia, anticonvulsant |
+| α2 / α3 | Anxiolysis, muscle relaxation |
+| α5 | Cognitive/memory effects |
 
 ---
 
-![Benzodiazepine backbone and sedative-hypnotic benzodiazepines (Foye Fig. 12.6)](figures/figure_12.6.jpg)
+## Benzodiazepine Binding Interface
 
-*5-Phenyl-1,4-benzodiazepin-2-one backbone and sedative-hypnotic benzodiazepines (Flurazepam, Quazepam, Triazolam, Estazolam, Temazepam).*
-
----
-
-## Pharmacophore – Functional Elements
-
-| Feature                          | Why It’s Required                                  |
-|----------------------------------|----------------------------------------------------|
-| **C7 electronegative group**     | Increases GABAA affinity via electronic effects    |
-| **C5 phenyl ring (Ring C)**      | Aromatic π–π stacking in binding pocket           |
-| **N1–C2 carbonyl**               | H-bond anchoring at BZD binding site              |
-
-Color convention (for SAR overlays in notes):  
-- 🟪 Ring A  🟦 Ring B  🟥 Ring C
+![GABAA binding site](figures/unnumbered_figure_12.5.jpg)
+*BZDs bind at α–γ interface; modulate GABA affinity*
 
 ---
 
-## SAR Overview – Key Sites
+## Essential Benzodiazepine Pharmacophore
 
-| Site                 | MedChem Rule                        | Effect                              |
-|----------------------|-------------------------------------|-------------------------------------|
-| **C7 (Ring A)**      | Electronegative (Cl, Br, NO₂)       | Essential for high potency          |
-| **C5 phenyl (Ring C)** | Must remain planar and aromatic  | Required for agonist activity       |
-| **o-halogenation**   | 2′-F / 2′-Cl on Ring C             | ↑ Lipophilicity, ↑ CNS penetration |
-| **p-substitution**   | Bulky groups at para position       | Steric clash → ↓ binding / inactive |
-| **C3–OH group**      | Introduces conjugation site         | Shorter duration (Phase II)         |
-| **Triazolo/imidazo fusion** | Metabolic shielding        | ↑ Potency, ↓ active metabolites     |
-| **Ester moiety** (remimazolam-like) | Esterase substrate | Ultra-short, hydrolysis-driven t½   |
+**5-phenyl-1,4-benzodiazepine-2-one backbone**
+
+- Ring A: C7 **electronegative** group  
+- Ring B: N1–C2 **carbonyl** (H-bond anchor)  
+- Ring C: **phenyl ring** (π-stacking)
 
 ---
 
-## SAR → Pharmacokinetics Theme
-
-- **Lipophilicity** drives:
-  - CNS penetration  
-  - Tissue distribution  
-  - Duration of action
-
-- **Metabolic “soft spots”**:
-  - Exposed N-alkyl chains → CYP N-dealkylation → active metabolites  
-  - Aromatic rings → hydroxylation → Phase II conjugation
-
-- **Design philosophy** for newer agents:
-  > Replace **oxidative liabilities** with **hydrolytic or conjugation liabilities**.
+![Backbone and SH-BZDs](figures/figure_12.6.jpg)
+*Five sedative-hypnotic benzodiazepines (Foye Fig. 12.6)*
 
 ---
 
-## Case SAR Examples – Classical BZDs
+## SAR — What Matters Most
 
-- **Flurazepam**
-  - N-alkyl chain at N1  
-  - Lipophilic o-halogenated phenyl ring  
-  - → Multiple long-acting active metabolites
-
-- **Quazepam**
-  - Very lipophilic and sulfur-containing moiety  
-  - → Long t½ and metabolite accumulation
-
-- **Triazolam / Estazolam**
-  - **Fused triazole ring** reduces oxidative metabolism  
-  - More predictable, shorter duration
-
-- **Temazepam**
-  - **C3–OH** promotes direct glucuronidation  
-  - Minimizes Phase I metabolism, short duration
+| Site | Required Feature | Effect |
+|------|-----------------|-------|
+| C7 (Ring A) | Electronegative Cl/Br/NO₂ | ↑ potency/affinity |
+| C5 phenyl | Aromatic & planar | Required for agonism |
+| o-Halogens | ↑ lipophilicity | ↑ BBB penetration |
+| p-Substitution | Bulky groups disfavored | ↓ binding → inactive |
+| C3-OH | Conjugation site | ↓ t½ (faster clearance) |
+| Triazolo/imidazo | Fused ring | ↑ potency; ↓ oxidation |
+| Ester appendage | Soft drug design | Ultra-short acting |
 
 ---
 
-## Metabolism of Flurazepam & Quazepam
+### Key SAR Visual Theme
 
-![Metabolism of flurazepam and quazepam (Foye Fig. 12.7)](figures/figure_12.7.jpg)
+> Medicinal chemistry controls:  
+> **duration** • **distribution** • **safety profile**
 
-*Note the N-dealkylation and formation of long-acting active metabolites.*
+---
+
+## SAR → PK Case Examples
+
+**Flurazepam**  
+- N-alkyl chain prone to **CYP3A4 N-dealkylation**  
+- Multiple **long-acting** metabolites accumulate
+
+---
+
+## CYP Oxidation — Classical BZD Metabolism
+
+![Flurazepam/Quazepam metabolism](figures/figure_12.7.jpg)
+*Long-acting metabolites → residual sedation*
+
+---
+
+**Temazepam**  
+- **C3-OH** → Phase II glucuronidation  
+- **Rapid** elimination  
+
+---
+
+### Phase II Conjugation Pathway
+
+![Temazepam glucuronidation](figures/unnumbered_figure_12.6.jpg)
+*Direct conjugation bypasses CYP450-dependent oxidation*
+
+---
+
+### Triazolo SAR Advantage
+
+![Triazolo protection](figures/figure_12.19.jpg)
+*Fused ring blocks oxidative liability → shorter duration*
 
 ---
 
 ## PK & Metabolism Comparison
 
-| Drug        | Key SAR Feature       | Primary Metabolic Route    | PK Outcome                         |
-|-------------|-----------------------|----------------------------|------------------------------------|
-| Flurazepam  | N-alkyl at N1         | CYP3A4 N-dealkylation      | Very long-acting active metabolites |
-| Quazepam    | Highly lipophilic     | CYP3A4 / CYP2C9 oxidation  | Prolonged duration, accumulation   |
-| Estazolam   | Triazolo fusion       | CYP3A4 hydroxylation       | Intermediate t½, limited actives   |
-| Triazolam   | Compact triazolo BZD  | Oxidation → conjugation    | Short-acting, minimal accumulation |
-| Temazepam   | C3–OH                 | Direct glucuronidation     | Rapid clearance, short duration    |
-| Remimazolam | Ester-containing side chain | Esterase hydrolysis | Ultra-short duration, predictable  |
+![PK Table (Foye Table 12.2)](figures/table_12.2.jpg)
 
 ---
 
-## Remimazolam – Design Rationale
+### Table 12.2 — Rebuilt for Accessibility
 
-- Maintains **benzodiazepine pharmacophore** for GABAA binding  
-- Incorporates a **cleavable ester** in the side chain  
-  - Substrate for **tissue carboxylesterases**  
-  - Rapid inactivation to non-BZD metabolite  
-- Minimizes dependence on CYP enzymes
-
-> Medicinal chemistry goal: **tight temporal control** of sedation.
+| Drug | Key SAR Feature | Metabolism Route | PK Outcome |
+|------|----------------|-----------------|------------|
+| **Flurazepam** | N-alkyl chain | CYP3A4 | Long-acting metabolites |
+| **Quazepam** | Very lipophilic | CYP3A4/2C9 | Accumulation risk |
+| **Estazolam** | Triazolobenzodiazepine | CYP3A4 | Intermediate duration |
+| **Triazolam** | Compact structure | Oxidation → conjugation | Short acting |
+| **Temazepam** | C3-OH | Direct glucuronidation | Rapid clearance |
+| **Remimazolam** | Ester appendage | Esterase hydrolysis | Ultra-short duration |
 
 ---
 
-## Active Learning – Structural Prediction
+## Remimazolam — Modern Medicinal Chemistry
 
-For each structural change, predict:
+![Remimazolam SAR](figures/figure_12.25.jpg)
+*Soft drug designed for procedural control*
 
-1. Effect on receptor binding (↑, ↓, or inactive)  
-2. Effect on PK (shorter, longer, or unchanged t½)  
+- Carboxylesterase hydrolysis → inactive metabolite  
+- Minimal CYP involvement → fewer interactions  
+- Predictable sedation onset/offset
 
-Examples:
+---
 
-- Remove the **C7-Cl** and replace with H  
-- Add a **bulky para-substituent** on the C5 phenyl ring  
-- Introduce a **C3–OH** group  
-- Fuse a **triazole ring** onto Ring B  
-- Add an **ester side chain** similar to remimazolam
+## Structural Prediction Exercise
 
-Discuss in pairs, then we review as a group.
+For each change, predict:
+
+1️⃣ Binding effect  
+2️⃣ Duration effect  
+
+- Remove **C7-Cl**  
+- Add **para bulky group**  
+- Add **C3-OH**  
+- Fuse **triazole ring**  
+- Add **ester (soft drug)**  
+
+*Discuss in pairs → class review*
 
 ---
 
 ## Key Takeaways
 
-- Benzodiazepines require:
-  - **C7 electronegative substitution**
-  - **C5 phenyl ring**
-  - **N1–C2 carbonyl**
-
-- SAR modifications can:
-  - Tune **affinity and selectivity**  
-  - Dramatically change **t½ and metabolic fate**
-
-- Newer drugs (e.g., **remimazolam**) are engineered using:
-  - Ester **hydrolysis** instead of oxidative pathways  
-  - Design for **predictable, ultra-short** sedation
-
----
-
-## Molecular Note – Flumazenil
-
-- **Competitive antagonist** at the same benzodiazepine α–γ binding site  
-- Recognizes the **same pharmacophore** but lacks intrinsic efficacy
+- BZDs modulate GABA **frequency** (not duration)
+- SAR directly shapes **PK & safety**
+- Remimazolam = **soft-drug evolution**
 
 ---
 
 # Questions?
 
 Thank you!  
-Next session: Non-benzodiazepine GABAA modulators and sedative-hypnotic SAR.
-
+Next: Non-BZD GABAA-modulating hypnotics (Z-drugs).
