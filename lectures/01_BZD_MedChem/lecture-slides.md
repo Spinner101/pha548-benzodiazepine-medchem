@@ -8,6 +8,7 @@ footer: "PHA 548 – Hampton University"
 
 # 🧬 Medicinal Chemistry of Benzodiazepine Sedative-Hypnotics
 **Course:** PHA 548 Pharmacology & Medicinal Chemistry  
+**Instructor:** Sidney Bolden, Jr., Ph.D.
 **Reference:** Foye's Principles of Medicinal Chemistry, 8th Ed.
 
 ---
@@ -24,7 +25,7 @@ By the end of this lecture, you will be able to:
 ---
 
 ## GABAA Receptors — Target Overview
-
+![GABAA binding site](figures/BZ_Allosteric_Binding.jpg)
 - **Pentameric ligand-gated Cl⁻ channel**
 - Typical stoichiometry: **2α + 2β + 1γ**
 - Benzodiazepines bind at **α–γ subunit interface**
@@ -43,15 +44,8 @@ By the end of this lecture, you will be able to:
 
 ---
 
-## Benzodiazepine Binding Interface
-
-![GABAA binding site](figures/BZ_Allosteric_Binding.jpg)
-*BZDs bind at α–γ interface; modulate GABA affinity*
-
----
-
 ## Essential Benzodiazepine Pharmacophore
-
+![Backbone](figures/BZ backbone.jpg)
 **5-phenyl-1,4-benzodiazepine-2-one backbone**
 
 - Ring A: C7 **electronegative** group  
@@ -60,7 +54,7 @@ By the end of this lecture, you will be able to:
 
 ---
 
-![Backbone and SH-BZDs](figures/figure_12.6.jpg)
+![SH-BZDs](figures/BZ_Sedative-hypnotic.jpg)
 *Five sedative-hypnotic benzodiazepines (Foye Fig. 12.6)*
 
 ---
