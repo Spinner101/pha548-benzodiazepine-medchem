@@ -4,11 +4,22 @@ theme: uncover
 paginate: true
 backgroundColor: #ffffff
 style: |
-  section { font-family: 'Helvetica', sans-serif; text-align: left; }
-  header { color: #2c3e50; font-weight: bold; }
-  footer { font-size: 15px; color: #7f8c8d; }
-  .columns { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; }
-  .highlight { color: #d35400; font-weight: bold; }
+  section {
+    font-family: 'Helvetica', sans-serif;
+    text-align: left;
+    font-size: 22px;   /* smaller global font */
+    padding: 40px;     /* add some breathing room */
+  }
+  h1 { font-size: 40px; }
+  h2 { font-size: 32px; }
+  h3 { font-size: 26px; }
+  footer { font-size: 14px; color: #7f8c8d; }
+  .columns {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+  }
+
 
 title: Medicinal Chemistry of Benzodiazepine Sedative-Hypnotics
 footer: "PHA 548 | Hampton University | PY1 PharmD"
