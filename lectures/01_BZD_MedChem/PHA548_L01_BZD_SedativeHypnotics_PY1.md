@@ -165,6 +165,52 @@ By the end of this lecture, you should be able to:
 | **Remimazolam** | Ester hydrolysis by esterases | Ultra-short duration; soft-drug behavior |
 
 ---
+---
+
+## ⏱ Half-Life & Structural Determinants (Sedative-Hypnotic BZDs – Part 1)
+
+**Key idea:**  
+Similar benzodiazepine pharmacophores can have **very different half-lives** because of **side chains, “soft spots,” and metabolic pathways.**
+
+| Drug        | t½ Class       | Approx t½ (h)\* | Key Structural Feature(s)           | Dominant Metabolism             | Impact on Duration |
+|------------|----------------|-----------------|-------------------------------------|----------------------------------|--------------------|
+| **Triazolam**  | Short-acting   | ~2–5          | Fused **triazolo** ring; compact   | CYP3A4 oxidation → conjugation   | Short, minimal accumulation |
+| **Midazolam**  | Short-acting   | ~1–4          | **Imidazo**-BZD; high lipophilicity | CYP3A4 hydroxylation             | Short, context-sensitive sedation |
+| **Remimazolam**| Ultra-short    | ~0.6–0.9      | **Ester side chain** (soft drug)   | **Esterase hydrolysis**          | Ultra-short; no active metabolites |
+| **Temazepam**  | Intermediate   | ~8–15         | **3-OH BZD**                        | Direct **glucuronidation**       | Intermediate; safer in liver disease |
+
+\*Approximate ranges; emphasize qualitative differences (ultra-short vs short vs intermediate vs long).
+
+**Pattern to notice:**
+
+- **Ester** ⟶ esterase hydrolysis ⟶ **very short t½**  
+- **3-OH** ⟶ direct Phase II conjugation ⟶ **intermediate t½**  
+- Fused **triazolo/imidazo** rings ⟶ limit some oxidation ⟶ **shorter, more predictable**
+
+---
+
+## ⏱ Half-Life & Structural Determinants (Sedative-Hypnotic BZDs – Part 2)
+
+| Drug        | t½ Class       | Approx t½ (h)\*      | Key Structural Feature(s)               | Dominant Metabolism            | Impact on Duration |
+|------------|----------------|----------------------|-----------------------------------------|---------------------------------|--------------------|
+| **Estazolam** | Intermediate | ~10–24              | **Triazolobenzodiazepine**             | CYP3A4 hydroxylation           | Intermediate duration |
+| **Flurazepam**| Long-acting  | Parent: ~2; metabolites: 40–100 | **N-alkyl chain**, lipophilic  | CYP3A4 → long-acting metabolites | Very long effective duration |
+| **Quazepam**  | Long-acting  | Parent & metabolites: long (tens of hours) | Highly lipophilic scaffold | CYP3A4/2C9 → active metabolites | Prolonged sedation & accumulation |
+| **Diazepam**  | Long-acting  | Parent: ~20–50; metabolites longer | **N-alkyl** and aromatic rings | CYP2C19/3A4 → active metabolites | Long duration via active metabolites |
+
+\*Approximate ranges; emphasize **relative** rather than exact values for PY1 level.
+
+**Structure → Metabolism → t½ logic**
+
+- **N-alkyl + high lipophilicity** → Phase I oxidation to **active metabolites** → **long or very long effective t½**  
+- **Fused rings** (triazolo/imidazo) → “shield” some soft spots → limit repeated oxidation → shorter, more controlled t½  
+- **Ester** (remimazolam) → **designed soft spot** for rapid hydrolysis → ultra-short duration
+
+> Teaching prompt:  
+> “Given this table, which BZD would you pick for:  
+> (1) rapid, procedural sedation?  
+> (2) elderly patient with insomnia and hepatic impairment?  
+> (3) someone who needs daytime anxiolysis?”
 
 ## 🧠 PY1 Critical Thinking Exercise
 
