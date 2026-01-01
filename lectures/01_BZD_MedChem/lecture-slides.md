@@ -97,7 +97,10 @@ By the end of this lecture, you will be able to:
 
 ---
 
-**Temazepam**  
+**Temazepam circumvents phase 1 metabolism**  
+![Temazepam metabolism](figures/temazepam_metabolism.jpg)
+
+
 - **C3-OH** → Phase II glucuronidation  
 - **Rapid** elimination  
 
