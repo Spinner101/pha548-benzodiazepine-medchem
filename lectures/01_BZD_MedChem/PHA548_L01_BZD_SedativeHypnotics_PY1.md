@@ -84,7 +84,7 @@ By the end of this lecture, you should be able to:
 </div>
 <div>
 
-![Backbone](figures/BZ_SAR.jpg)
+![Backbone](figures/BZ_SAR.png)
 
 </div>
 </div>
