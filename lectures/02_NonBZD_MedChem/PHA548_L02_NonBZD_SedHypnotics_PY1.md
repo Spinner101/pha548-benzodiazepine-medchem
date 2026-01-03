@@ -70,13 +70,16 @@ Primary **α1** receptor subtype preference → **sedation predominates** over a
 - Imidazopyridine core mimics spatial arrangement of BZD rings  
 - **p-Cl phenyl** → lipophilicity + affinity  
 - Amide → H-bond acceptor
-- 
+  
 ![Z_Drug](figures/zolpidem.jpg)
 
 
 **PK**
 - CYP3A4 metabolism → **inactive metabolites**
 - t½ ~ 2–3 h → **sleep onset**
+
+![Z_Drug_met](figures/zolpidem_metabolism.jpg)
+
 
 **MedChem Takeaway**
 Short lipophilic scaffold → rapid distribution & clearance.
@@ -89,10 +92,17 @@ Short lipophilic scaffold → rapid distribution & clearance.
 - Heteroaromatic core  
 - Nitrile group tunes electronics
 
+c
+
+
 **Metabolism**
 - Major: **aldehyde oxidase**  
 - No active metabolites  
 - **t½ ~ 1 h → ultra-short**
+
+
+![Z_Drug_met](figures/zalephon_metabolism.jpg)
+
 
 **Clinical**
 - Middle-of-night dosing possible  
@@ -107,8 +117,14 @@ Short lipophilic scaffold → rapid distribution & clearance.
 - Lactam carbonyl anchors receptor  
 - More polar than zolpidem → **longer** duration (5–7 h)
 
+![Z_Drug_met](figures/eszopiclone.jpg)
+
+
 **Adverse effect**
 - Distinct: dysgeusia (metallic taste)
+  
+![Z_Drug_met](figures/eszopiclone_metabolism.jpg)
+
 
 ---
 
