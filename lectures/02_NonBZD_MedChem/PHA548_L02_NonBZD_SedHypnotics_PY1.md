@@ -70,7 +70,7 @@ Primary **α1** receptor subtype preference → **sedation predominates** over a
 - Imidazopyridine core mimics spatial arrangement of BZD rings  
 - **p-Cl phenyl** → lipophilicity + affinity  
 - Amide → H-bond acceptor
-
+![Z_Drug](figures/zolpidem.jpg)
 **PK**
 - CYP3A4 metabolism → **inactive metabolites**
 - t½ ~ 2–3 h → **sleep onset**
